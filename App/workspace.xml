@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5af222b5-7ada-4cae-9608-74fe4bc55f36" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1tw0uyyojWtauHwlFsIUY8A5ImL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.app_v2">
+    <configuration name="Face-Mesh-MediaPipe" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Face-Mesh-MediaPipe" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\reign\AppData\Local\Programs\Python\Python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="app_v2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Face-Mesh-MediaPipe" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app_v2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="face_mesh_app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Face-Mesh-MediaPipe" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/face_mesh_app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Face-Mesh-MediaPipe" />
+      <item itemvalue="Python.face_mesh_app" />
+      <item itemvalue="Python.app_v2" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.app_v2" />
+        <item itemvalue="Python.face_mesh_app" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5af222b5-7ada-4cae-9608-74fe4bc55f36" name="Default Changelist" comment="" />
+      <created>1623665071048</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623665071048</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="454" y="335" width="1089" height="713" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1623665180243">
+      <screen x="0" y="0" width="2560" height="1409" />
+    </state>
+    <state x="454" y="335" width="1089" height="713" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1409@0.0.2560.1409" timestamp="1623665180243" />
+    <state x="779" y="447" key="FileChooserDialogImpl" timestamp="1623665178698">
+      <screen x="0" y="0" width="2560" height="1409" />
+    </state>
+    <state x="779" y="447" key="FileChooserDialogImpl/0.0.2560.1409@0.0.2560.1409" timestamp="1623665178698" />
+    <state width="2539" height="176" key="GridCell.Tab.0.bottom" timestamp="1624390575867">
+      <screen x="0" y="0" width="2560" height="1409" />
+    </state>
+    <state width="2539" height="176" key="GridCell.Tab.0.bottom/0.0.2560.1409/919.2160.1280.720@0.0.2560.1409" timestamp="1624390575867" />
+    <state width="1259" height="176" key="GridCell.Tab.0.bottom/0.0.2560.1409/919.2160.1280.720@919.2160.1280.720" timestamp="1624377304240" />
+    <state width="1940" height="275" key="GridCell.Tab.0.bottom/0.0.2560.1409@0.0.2560.1409" timestamp="1623665328006" />
+    <state width="2539" height="176" key="GridCell.Tab.0.center" timestamp="1624390575866">
+      <screen x="0" y="0" width="2560" height="1409" />
+    </state>
+    <state width="2539" height="176" key="GridCell.Tab.0.center/0.0.2560.1409/919.2160.1280.720@0.0.2560.1409" timestamp="1624390575866" />
+    <state width="1259" height="176" key="GridCell.Tab.0.center/0.0.2560.1409/919.2160.1280.720@919.2160.1280.720" timestamp="1624377304239" />
+    <state width="1940" height="275" key="GridCell.Tab.0.center/0.0.2560.1409@0.0.2560.1409" timestamp="1623665328006" />
+    <state width="2539" height="176" key="GridCell.Tab.0.left" timestamp="1624390575866">
+      <screen x="0" y="0" width="2560" height="1409" />
+    </state>
+    <state width="2539" height="176" key="GridCell.Tab.0.left/0.0.2560.1409/919.2160.1280.720@0.0.2560.1409" timestamp="1624390575866" />
+    <state width="1259" height="176" key="GridCell.Tab.0.left/0.0.2560.1409/919.2160.1280.720@919.2160.1280.720" timestamp="1624377304239" />
+    <state width="1940" height="275" key="GridCell.Tab.0.left/0.0.2560.1409@0.0.2560.1409" timestamp="1623665328006" />
+    <state width="2539" height="176" key="GridCell.Tab.0.right" timestamp="1624390575866">
+      <screen x="0" y="0" width="2560" height="1409" />
+    </state>
+    <state width="2539" height="176" key="GridCell.Tab.0.right/0.0.2560.1409/919.2160.1280.720@0.0.2560.1409" timestamp="1624390575866" />
+    <state width="1259" height="176" key="GridCell.Tab.0.right/0.0.2560.1409/919.2160.1280.720@919.2160.1280.720" timestamp="1624377304239" />
+    <state width="1940" height="275" key="GridCell.Tab.0.right/0.0.2560.1409@0.0.2560.1409" timestamp="1623665328006" />
+    <state x="1170" y="2171" key="SettingsEditor" timestamp="1624363275598">
+      <screen x="919" y="2160" width="1280" height="720" />
+    </state>
+    <state x="1170" y="2171" key="SettingsEditor/0.0.2560.1409/919.2160.1280.720@919.2160.1280.720" timestamp="1624363275598" />
+    <state x="501" y="325" key="SettingsEditor/0.0.2560.1409@0.0.2560.1409" timestamp="1623665305180" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/mediapipe/__init__.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/mediapipe/__init__.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
